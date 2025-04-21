@@ -1,6 +1,6 @@
 # StrukturDataSearchAlgo
 Proyek Search Algorithm dengan linear dan binary search
-Terdapat :
+### di dalamnya terdapat :
 - Pencarian berdasarkan Judul Paper
 - Pencarian berdasarkan Tahun Terbit
 - Pencarian berdasarkan Nama Penulis
